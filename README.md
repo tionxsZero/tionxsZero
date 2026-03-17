@@ -80,12 +80,12 @@
 ## `$ git stats --global`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francgpneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=020408&title_color=00e5ff&icon_color=00ff9d&text_color=c8d8e8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francgpneto&layout=compact&theme=tokyonight&hide_border=true&bg_color=020408&title_color=00e5ff&text_color=c8d8e8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tionxsZero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=020408&title_color=00e5ff&icon_color=00ff9d&text_color=c8d8e8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tionxsZero&layout=compact&theme=tokyonight&hide_border=true&bg_color=020408&title_color=00e5ff&text_color=c8d8e8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francgpneto&theme=tokyonight&hide_border=true&background=020408&stroke=00e5ff&ring=00ff9d&fire=ff6b00&currStreakLabel=00e5ff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tionxsZero&theme=tokyonight&hide_border=true&background=020408&stroke=00e5ff&ring=00ff9d&fire=ff6b00&currStreakLabel=00e5ff"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=francgpneto&color=00e5ff&style=flat-square&label=profile+views"/>
+  <img src="https://komarev.com/ghpvc/?username=tionxsZero&color=00e5ff&style=flat-square&label=profile+views"/>
 
   *"Always monitoring, always building."*
 </div>
